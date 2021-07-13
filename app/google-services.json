@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417168808017",
+    "project_id": "android-57dcb",
+    "storage_bucket": "android-57dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417168808017:android:e46fdec4462af8d4390070",
+        "android_client_info": {
+          "package_name": "com.example.logincotrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417168808017-j4ut40s4pgq3edstae8gsm1dbt93a60d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiF52EA4NAui7ywgCuHaRBTDuy8Qshso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417168808017-j4ut40s4pgq3edstae8gsm1dbt93a60d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
